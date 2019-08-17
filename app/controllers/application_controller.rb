@@ -9,8 +9,8 @@ class ApplicationController < ActionController::Base
     render html: "goodbye world!"
   end
   
-  def see ya
-    render html: "see ya"
+  def seeya
+    render html: "see ya!"
   end
 
 end
